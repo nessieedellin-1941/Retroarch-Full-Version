@@ -240,4 +240,4 @@ This repository serves as the official landing page for RetroArch. The software 
 **Get the most recent version of RetroArch today!**
 
 ---
-**Last updated:** 2026-09-12 13:12:38 UTC
+**Last updated:** 2026-09-12 16:35:43 UTC
